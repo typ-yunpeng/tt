@@ -19,5 +19,5 @@ hs_err_pid*
 portal-web/src/main/resources/config/local/config.properties
 #MyCoustomIgnore
 # *.gitignore
-# *.project
+*.project
 ##
